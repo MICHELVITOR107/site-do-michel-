@@ -1,6 +1,7 @@
-# Site acessível sobre Tropicália
+# Site acessível sobre jogos
 # Sobre
-Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
+criação de um site de jogos habilitando recursos de acessibilidade no html, css e JS.
+
 ## Recursos de acessibilidade
 - Atributos aria
 - alt
