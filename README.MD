@@ -1,4 +1,4 @@
-# Site acessível sobre jogos
+# Site acessível sobre crítica de jogos
 # Sobre
 criação de um site de jogos habilitando recursos de acessibilidade no html, css e JS.
 
